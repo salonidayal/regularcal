@@ -1,0 +1,24 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 61px;
+    color: black;
+}
+
+input {
+    font-size: 34px;
+}
+
+button {
+    font-size: 23px;
+    background: #60e0cd;
+    border: none;
+    color: white;
+    width: 101px;
+    height: 45px;
+}
+
+.calculator {
+    display: inline-block;
+    background-color: black;
+    padding: 1%;
+}
